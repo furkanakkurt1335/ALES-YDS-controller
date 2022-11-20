@@ -17,5 +17,5 @@ In this example, the script assumes that the gold answers are in `YDS/Answers/Go
 3 c
 ```
 
-Templates for both exams are included in the root directory.
+Templates for both exams are included in the root directory (e.g. `answer-sheet-template_YDS.txt`). A gold example for each exam is also included in their respective directories (e.g. `YDS/Answers/Gold/2021-YDS-1-CS-YDS1_ingilizce.txt`).
 
