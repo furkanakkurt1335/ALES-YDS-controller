@@ -17,5 +17,5 @@ In this example, the script assumes that the gold answers are in `YDS/Answers/Go
 3 c
 ```
 
-An empty template is included in the root directory.
+Templates for both exams are included in the root directory.
 
